@@ -2,7 +2,7 @@
 
 Hey there! Welcome to my 8-Puzzle AI project. I built this to dive deep into classic AI search algorithms and create a really polished, interactive experience using just Python and its built-in GUI library, tkinter.
 
-*(Feel free to swap this link with a screenshot of your own!)*
+
 
 ## ✨ What Can It Do?
 
